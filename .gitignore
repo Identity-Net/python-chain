@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+
+# virtualenv files
+__pycache__/
+.vscode
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# generated keys 
+private.key
+public.key
